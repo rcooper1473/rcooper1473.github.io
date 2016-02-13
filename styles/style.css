@@ -1,0 +1,38 @@
+h1 { 
+	text-align: center;
+}
+
+ul {
+	list-style-position: inside;
+}
+
+#first {
+	color: red;
+}
+
+.others {
+	text-decoration: underline;
+}
+
+ body {
+  background-image: url(https://pbs.twimg.com/media/CN8aSFFWsAAZGkN.jpg:large)
+  }
+  #left-div { 
+  	float: left;
+  	clear: both;
+  
+} 
+
+ #right-div {
+	float: right;
+	
+background-color: gray;
+
+
+}
+	
+
+li {
+	display: inline;
+	margin: 10px;
+}
